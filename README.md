@@ -205,7 +205,7 @@ Nature Computational Science 2023. [[Paper](https://arxiv.org/abs/2209.15611)] [
 
 **End-to-end protein–ligand complex structure generation with diffusion-based generative models** \
 *Shuya Nakata, Yoshiharu Mori, and Shigenori Tanaka* \
-BMC Bioinformatics 2023. [[Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05354-5)] \
+BMC Bioinformatics 2023. [[Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05354-5)] \ [[Github](https://github.com/shuyana/DiffusionProteinLigand)]\
 22 December 2022
 
 #### <a id="sgm4"> SGM </a>
@@ -213,7 +213,7 @@ BMC Bioinformatics 2023. [[Paper](https://bmcbioinformatics.biomedcentral.com/ar
 **Dynamic-backbone protein-ligand structure prediction with multiscale generative diffusion models**
 **tate-specific protein-ligand complex structure prediction with a multi-scale deep generative model (new version)**
 *Zhuoran Qiao, Weili Nie, Arash Vahdat, Thomas F Miller III, and Anima Anandkumar* \
-NeurIPS 2022. [[Paper](https://arxiv.org/abs/2209.15171)] \ [[Github](https://github.com/shuyana/DiffusionProteinLigand)]\
+NeurIPS 2022. [[Paper](https://arxiv.org/abs/2209.15171)] \
 22 December 2022
 
 > If you find our survey useful for your research, please cite the following paper:
